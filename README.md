@@ -15,3 +15,15 @@
 ## Solving for Carrots
 -   carrot.cpp
 -   Difficulty 1.2
+
+## Planina
+-   planina.cpp
+-   Difficulty 1.2
+
+## Cold-puter Science
+-   cold.cpp
+-   Difficulty 1.2
+
+## Bijele
+-   bijele.cpp
+-   Difficulty 1.2
