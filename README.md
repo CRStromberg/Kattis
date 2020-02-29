@@ -27,3 +27,23 @@
 ## Bijele
 -   bijele.cpp
 -   Difficulty 1.2
+
+## Autori
+-   autori.cpp
+-   Difficulty 1.2
+
+## Tarifa
+-   tar.cpp
+-   Difficulty 1.3
+
+## Take Two Stones
+-   stone.cpp
+-   Difficulty 1.3
+
+## Stuck In A Time Loop
+-   time.cpp
+-   Difficulty 1.3
+
+## Spavanac
+-   spa.cpp
+-   Difficulty 1.3
