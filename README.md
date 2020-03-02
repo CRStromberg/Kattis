@@ -47,3 +47,11 @@
 ## Spavanac
 -   spa.cpp
 -   Difficulty 1.3
+
+## Sibice
+-   sibice.cpp
+-   Difficulty 1.3
+
+## Quality-Adjusted Life-Year
+-   life.cpp
+-   Difficulty 1.3
