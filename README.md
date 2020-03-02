@@ -3,7 +3,6 @@
 ## Hello World!
 - hello.cpp
 - Difficulty 1.2
-[a relative link](Hello\ World!\!/hello.cpp)
 
 ## R2
 - r2.cpp
@@ -17,7 +16,7 @@
 -   carrot.cpp
 -   Difficulty 1.2
 
-## Planina
+## [Planina](Planina/planina.cpp)
 -   planina.cpp
 -   Difficulty 1.2
 
