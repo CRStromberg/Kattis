@@ -1,4 +1,4 @@
-# Kattis-c++
+# Kattis
 
 ## Hello World!
 -   [C++](HelloWorld!/hello.cpp)
@@ -38,6 +38,22 @@
 
 ## Heart Rate
 -   [C++](HeartRate/rate.cpp)
+-   Difficulty 1.2
+
+## FizzBuzz
+-   [C++](FizzBuzz/fz.cpp)
+-   Difficulty 1.2
+
+## Filip
+-   [C++](Filip/flip.cpp)
+-   Difficulty 1.2
+
+## Faktor
+-   [C++](Faktor/fac.cpp)
+-   Difficulty 1.2
+
+## Dice Cup
+-   [C++](DiceCup/dice.cpp)
 -   Difficulty 1.2
 
 ## Tarifa
