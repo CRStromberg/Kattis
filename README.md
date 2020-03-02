@@ -55,3 +55,23 @@
 ## Quality-Adjusted Life-Year
 -   life.cpp
 -   Difficulty 1.3
+
+## Pot
+-   pot.cpp
+-   Difficulty 1.3
+
+## Piece of Cake!
+-   cake.cpp
+-   Difficulty 1.3
+
+## Oddities
+-   odd.cpp
+-   Difficulty 1.3
+
+## Nasty Hacks
+-   advertise.cpp
+-   Difficulty 1.3
+
+## Last Factorial Digit
+-   last.cpp
+-   Difficulty 1.3
