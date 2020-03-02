@@ -36,6 +36,10 @@
 -   [C++](Autori/autori.cpp)
 -   Difficulty 1.2
 
+## Heart Rate
+-   [C++](HeartRate/rate.cpp)
+-   Difficulty 1.2
+
 ## Tarifa
 -   [C++](Tarifa/tar.cpp)
 -   Difficulty 1.3
