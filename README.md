@@ -1,77 +1,77 @@
 # Kattis-c++
 
 ## Hello World!
-- hello.cpp
+- [hello.cpp](HelloWorld!/hello.cpp)
 - Difficulty 1.2
 
 ## R2
-- r2.cpp
+- [r2.cpp](R2/r2.cpp)
 - Difficulty 1.2
 
 ## Quadrant Selection
--   qs.cpp
+-   [qs.cpp](QuadrantSelection/qs.cpp)
 -   Difficulty 1.2
 
 ## Solving for Carrots
--   carrot.cpp
+-   [carrot.cpp](SolvingforCarrots)
 -   Difficulty 1.2
 
-## [Planina](Planina/planina.cpp)
--   planina.cpp
+## Planina
+-   [planina.cpp](Planina/planina.cpp)
 -   Difficulty 1.2
 
 ## Cold-puter Science
--   cold.cpp
+-   [cold.cpp](Cold-puterScience/cold.cpp)
 -   Difficulty 1.2
 
 ## Bijele
--   bijele.cpp
+-   [bijele.cpp](Bijele/bijele.cpp)
 -   Difficulty 1.2
 
 ## Autori
--   autori.cpp
+-   [autori.cpp](Autori/autori.cpp)
 -   Difficulty 1.2
 
 ## Tarifa
--   tar.cpp
+-   [tar.cpp](Tarifa/tar.cpp)
 -   Difficulty 1.3
 
 ## Take Two Stones
--   stone.cpp
+-   [stone.cpp](TakeTwoStones/stone.cpp)
 -   Difficulty 1.3
 
 ## Stuck In A Time Loop
--   time.cpp
+-   [time.cpp](StuckInATimeLoop/time.cpp)
 -   Difficulty 1.3
 
 ## Spavanac
--   spa.cpp
+-   [spa.cpp](Spavanac/spa.cpp)
 -   Difficulty 1.3
 
 ## Sibice
--   sibice.cpp
+-   [sibice.cpp](Sibice/sibice.cpp)
 -   Difficulty 1.3
 
 ## Quality-Adjusted Life-Year
--   life.cpp
+-   [life.cpp](Quality-AdjustedLifeYear/life.cpp)
 -   Difficulty 1.3
 
 ## Pot
--   pot.cpp
+-   [pot.cpp](Pot/pot.cpp)
 -   Difficulty 1.3
 
 ## Piece of Cake!
--   cake.cpp
+-   [cake.cpp](PieceofCake/cake.cpp)
 -   Difficulty 1.3
 
 ## Oddities
--   odd.cpp
+-   [odd.cpp](Oddities/odd.cpp)
 -   Difficulty 1.3
 
 ## Nasty Hacks
--   advertise.cpp
+-   [advertise.cpp](NastyHacks/advertise.cpp)
 -   Difficulty 1.3
 
 ## Last Factorial Digit
--   last.cpp
+-   [last.cpp](LastFactorialDigit/last.cpp)
 -   Difficulty 1.3
