@@ -1,8 +1,8 @@
 # Kattis
 <p align="center">
-![c++](c++.png)<br/>
-![Python](python.jpeg)<br/>
-![JavaScript](node.png)<br/>
+<img src="c++.png"><br/>
+<img src="python.jpeg"><br/>
+<img src="node.png"><br/>
 </p>
 
 <p align="center">
