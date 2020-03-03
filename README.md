@@ -5,11 +5,13 @@
 <img src="node.png"><br/>
 </p>
 
+<b>
 <p align="center">
-<b><h3>This is just to help people</h3><br/>
-<h3>Do not use this to cheat</h3><br/>
-<h3>I will slowly be adding JavaScript and Python solutions</h3></b>
+<h3>This is just to help people</h3>
+<h3>Do not use this to cheat</h3>
+<h3>I will slowly be adding JavaScript and Python solutions</h3>
 </p>
+</b>
 
 ## Hello World!
 -   [C++](HelloWorld!/hello.cpp)
