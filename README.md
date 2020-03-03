@@ -133,6 +133,10 @@
 -   [C++](Zamka/z.cpp)
 -   Difficulty 1.3
 
+## Hissing Microphone
+-   [C++](HissingMicrophone/hiss.cpp)
+-   Difficulty 1.3
+
 ## 3D Printed Statues
 -   [C++](3DPrintedStatues/3d.cpp)
 -   Difficulty 2.1
