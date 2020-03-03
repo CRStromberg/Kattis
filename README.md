@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-***This is just to help people***<br/>
-***Do not use this to cheat***<br/>
-*I will slowly be adding JavaScript and Python solutions*
+<b><h3>This is just to help people</h3><br/>
+<h3>Do not use this to cheat</h3><br/>
+<h3>I will slowly be adding JavaScript and Python solutions</h3></b>
 </p>
 
 ## Hello World!
