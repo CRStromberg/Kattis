@@ -1,8 +1,8 @@
 # Kattis
 
 
-***This is just to help people***
-***Do not use this to cheat***
+***This is just to help people***<br/>
+***Do not use this to cheat***<br/>
 *I will slowly be adding JavaScript and Python solutions*
 
 ## Hello World!
