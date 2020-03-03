@@ -1,5 +1,10 @@
 # Kattis
 
+
+***This is just to help people***
+***Do not use this to cheat***
+*I will slowly be adding JavaScript and Python solutions*
+
 ## Hello World!
 -   [C++](HelloWorld!/hello.cpp)
 -   [Python 3](HelloWorld!/hello.py)
@@ -115,3 +120,12 @@
 ## IsItHalloween.com
 -   [C++](IsItHalloween.com/main.cpp)
 -   Difficulty 1.3
+
+## Zamka
+-   [C++](Zamka/z.cpp)
+-   Difficulty 1.3
+
+## 3D Printed Statues
+-   [C++](3DPrintedStatues/3d.cpp)
+-   Difficulty 2.1
+
