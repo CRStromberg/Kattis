@@ -27,6 +27,8 @@
 
 ## Quadrant Selection
 -   [C++](QuadrantSelection/qs.cpp)
+-   [Python 3](QuadrantSelection/qs.py)
+-   [JavaScript (Node.js)](QuadrantSelection/qs.js)
 -   Difficulty 1.2
 
 ## Solving for Carrots
