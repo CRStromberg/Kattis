@@ -137,6 +137,10 @@
 -   [C++](HissingMicrophone/hiss.cpp)
 -   Difficulty 1.3
 
+## Grass Seed Inc.
+-   [C++](GrassSeedInc./grass.cpp)
+-   Difficulty 1.3
+
 ## 3D Printed Statues
 -   [C++](3DPrintedStatues/3d.cpp)
 -   Difficulty 2.1
