@@ -99,3 +99,19 @@
 ## Last Factorial Digit
 -   [C++](LastFactorialDigit/last.cpp)
 -   Difficulty 1.3
+
+## Speed Limit
+-   [C++](SpeedLimit/sp.cpp)
+-   Difficulty 1.3
+
+## Pet
+-   [C++](Pet/pet.cpp)
+-   Difficulty 1.3
+
+## No Duplicates
+-   [C++](NoDuplicates/no.cpp)
+-   Difficulty 1.3
+
+## IsItHalloween.com
+-   [C++](IsItHalloween.com/main.cpp)
+-   Difficulty 1.3
