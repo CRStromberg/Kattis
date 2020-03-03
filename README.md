@@ -1,10 +1,15 @@
 # Kattis
+<p align="center">
+[](c++.png)<br/>
+[](python.jpeg)<br/>
+[](node.png)<br/>
+</p>
 
-
+<p align="center">
 ***This is just to help people***<br/>
 ***Do not use this to cheat***<br/>
 *I will slowly be adding JavaScript and Python solutions*
-
+</p>
 ## Hello World!
 -   [C++](HelloWorld!/hello.cpp)
 -   [Python 3](HelloWorld!/hello.py)
