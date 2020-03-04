@@ -33,8 +33,8 @@
 
 ## Solving for Carrots
 -   [C++](SolvingforCarrots/carrot.cpp)
--   [Python 3][C++](SolvingforCarrots/carrot.py)
--   [JavaScript (Node.js/Too slow, will fix later)][C++](SolvingforCarrots/carrot.js)
+-   [Python 3](SolvingforCarrots/carrot.py)
+-   [JavaScript (Node.js/Too slow, will fix later)](SolvingforCarrots/carrot.js)
 -   Difficulty 1.2
 
 ## Planina
