@@ -145,6 +145,20 @@
 -   [C++](GrassSeedInc./grass.cpp)
 -   Difficulty 1.3
 
+## Cetvrta
+-   [C++](Cetvrta/cetvrta.cpp)
+-   [Python 3](Cetvrta/cetvrta.py)
+-   Difficulty 1.3
+
+## Bela
+-   [C++](Bela/bela.cpp)
+-   Difficulty 1.3
+
+## Batter Up
+-   [C++](BatterUp/bat.cpp)
+-   Difficulty 1.3
+
+
 ## 3D Printed Statues
 -   [C++](3DPrintedStatues/3d.cpp)
 -   Difficulty 2.1
