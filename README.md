@@ -158,6 +158,9 @@
 -   [C++](BatterUp/bat.cpp)
 -   Difficulty 1.3
 
+## What does the fox say?
+-   [JavaScript (Node.js)](Whatdoesthefoxsay/fox.js)
+-   Difficulty 2.0
 
 ## 3D Printed Statues
 -   [C++](3DPrintedStatues/3d.cpp)
