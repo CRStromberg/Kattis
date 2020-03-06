@@ -162,6 +162,10 @@
 -   [JavaScript (Node.js)](Whatdoesthefoxsay/fox.js)
 -   Difficulty 2.0
 
+## Heliocentric
+-   [C++](Heliocentric/helio.cpp)
+-   Difficulty 1.8
+
 ## 3D Printed Statues
 -   [C++](3DPrintedStatues/3d.cpp)
 -   Difficulty 2.1
