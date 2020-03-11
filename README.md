@@ -158,13 +158,21 @@
 -   [C++](BatterUp/bat.cpp)
 -   Difficulty 1.3
 
-## What does the fox say?
--   [JavaScript (Node.js)](Whatdoesthefoxsay/fox.js)
--   Difficulty 2.0
+## Judging Moose
+-   [C++](JudgingMoose/moose.cpp)
+-   Difficulty 1.3
 
 ## Heliocentric
 -   [C++](Heliocentric/helio.cpp)
 -   Difficulty 1.8
+
+## What does the fox say?
+-   [JavaScript (Node.js)](Whatdoesthefoxsay/fox.js)
+-   Difficulty 2.0
+
+## Train Passengers
+-   [C++](TrainPassengers/train.cpp)
+-   Difficulty 2.0
 
 ## 3D Printed Statues
 -   [C++](3DPrintedStatues/3d.cpp)
