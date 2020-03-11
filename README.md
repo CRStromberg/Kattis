@@ -162,6 +162,10 @@
 -   [C++](JudgingMoose/moose.cpp)
 -   Difficulty 1.3
 
+## Trik
+-   [C++](Trik/trik.cpp)
+-   Difficulty 1.4
+
 ## Heliocentric
 -   [C++](Heliocentric/helio.cpp)
 -   Difficulty 1.8
