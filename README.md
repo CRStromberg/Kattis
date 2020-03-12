@@ -179,6 +179,7 @@
 -   Difficulty 1.8
 
 ## What does the fox say?
+-   [C++/Haven't finished yet](Whatdoesthefoxsay/fox.cpp)
 -   [JavaScript (Node.js)](Whatdoesthefoxsay/fox.js)
 -   Difficulty 2.0
 
