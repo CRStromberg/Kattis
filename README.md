@@ -162,8 +162,16 @@
 -   [C++](JudgingMoose/moose.cpp)
 -   Difficulty 1.3
 
+## Hanging Out on the Terrace
+-   [C++](HangingOutontheTerrace/terrace.cpp)
+-   Difficulty 1.3
+
 ## Trik
 -   [C++](Trik/trik.cpp)
+-   Difficulty 1.4
+
+## The Amazing Human Cannonball
+-   [C++](TheAmazingHumanCannonball/can.cpp)
 -   Difficulty 1.4
 
 ## Heliocentric
@@ -176,6 +184,10 @@
 
 ## Train Passengers
 -   [C++](TrainPassengers/train.cpp)
+-   Difficulty 2.0
+
+## Video Speedup
+-   [C++](VideoSpeedup/vid.cpp)
 -   Difficulty 2.0
 
 ## 3D Printed Statues
