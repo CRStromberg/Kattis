@@ -174,6 +174,22 @@
 -   [C++](TheAmazingHumanCannonball/can.cpp)
 -   Difficulty 1.4
 
+## Seven Wonders
+-   [C++](SevenWonders/sw.cpp)
+-   Difficulty 1.4
+
+## Roaming Romans
+-   [C++](RoamingRomans/rr.cpp)
+-   Difficulty 1.4
+
+## Quick Estimates
+-   [C++](QuickEstimates/qe.cpp)
+-   Difficulty 1.4
+
+## Aaah!
+-   [C++](Aaah!/ah.cpp)
+-   Difficulty 1.6
+
 ## Heliocentric
 -   [C++](Heliocentric/helio.cpp)
 -   Difficulty 1.8
