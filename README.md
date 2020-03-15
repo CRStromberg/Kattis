@@ -186,6 +186,14 @@
 -   [C++](QuickEstimates/qe.cpp)
 -   Difficulty 1.4
 
+## Provinces and Gold
+-   [C++](ProvincesandGold/pac.cpp)
+-   Difficulty 1.4
+
+## Poker Hand
+-   [C++](PokerHand/poker.cpp)
+-   Difficulty 1.4
+
 ## Aaah!
 -   [C++](Aaah!/ah.cpp)
 -   Difficulty 1.6
