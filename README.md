@@ -13,209 +13,213 @@
 </p>
 </b>
 
-## Hello World!
+## 1. Hello World!
 -   [C++](HelloWorld!/hello.cpp)
 -   [Python 3](HelloWorld!/hello.py)
 -   [JavaScript (Node.js)](HelloWorld!/hello.js)
 -   Difficulty 1.2
 
-## R2
+## 2. R2
 -   [C++](R2/r2.cpp)
 -   [Python 3](R2/r2.py)
 -   [JavaScript (Node.js)](R2/r2.js)
 -   Difficulty 1.2
 
-## Quadrant Selection
+## 3. Quadrant Selection
 -   [C++](QuadrantSelection/qs.cpp)
 -   [Python 3](QuadrantSelection/qs.py)
 -   [JavaScript (Node.js)](QuadrantSelection/qs.js)
 -   Difficulty 1.2
 
-## Solving for Carrots
+## 4. Solving for Carrots
 -   [C++](SolvingforCarrots/carrot.cpp)
 -   [Python 3](SolvingforCarrots/carrot.py)
 -   [JavaScript (Node.js/Too slow, will fix later)](SolvingforCarrots/carrot.js)
 -   Difficulty 1.2
 
-## Planina
+## 5. Planina
 -   [C++](Planina/planina.cpp)
 -   Difficulty 1.2
 
-## Cold-puter Science
+## 6. Cold-puter Science
 -   [C++](Cold-puterScience/cold.cpp)
 -   Difficulty 1.2
 
-## Bijele
+## 7. Bijele
 -   [C++](Bijele/bijele.cpp)
 -   Difficulty 1.2
 
-## Autori
+## 8. Autori
 -   [C++](Autori/autori.cpp)
 -   Difficulty 1.2
 
-## Heart Rate
+## 9. Heart Rate
 -   [C++](HeartRate/rate.cpp)
 -   Difficulty 1.2
 
-## FizzBuzz
+## 10. FizzBuzz
 -   [C++](FizzBuzz/fz.cpp)
 -   Difficulty 1.2
 
-## Filip
+## 11. Filip
 -   [C++](Filip/flip.cpp)
 -   Difficulty 1.2
 
-## Faktor
+## 12. Faktor
 -   [C++](Faktor/fac.cpp)
 -   Difficulty 1.2
 
-## Dice Cup
+## 13. Dice Cup
 -   [C++](DiceCup/dice.cpp)
 -   Difficulty 1.2
 
-## Tarifa
+## 14. Tarifa
 -   [C++](Tarifa/tar.cpp)
 -   Difficulty 1.3
 
-## Take Two Stones
+## 15. Take Two Stones
 -   [C++](TakeTwoStones/stone.cpp)
 -   Difficulty 1.3
 
-## Stuck In A Time Loop
+## 15. Stuck In A Time Loop
 -   [C++](StuckInATimeLoop/time.cpp)
 -   Difficulty 1.3
 
-## Spavanac
+## 16. Spavanac
 -   [C++](Spavanac/spa.cpp)
 -   Difficulty 1.3
 
-## Sibice
+## 17. Sibice
 -   [C++](Sibice/sibice.cpp)
 -   Difficulty 1.3
 
-## Quality-Adjusted Life-Year
+## 18. Quality-Adjusted Life-Year
 -   [C++](Quality-AdjustedLifeYear/life.cpp)
 -   Difficulty 1.3
 
-## Pot
+## 19. Pot
 -   [C++](Pot/pot.cpp)
 -   Difficulty 1.3
 
-## Piece of Cake!
+## 20. Piece of Cake!
 -   [C++](PieceofCake/cake.cpp)
 -   Difficulty 1.3
 
-## Oddities
+## 21. Oddities
 -   [C++](Oddities/odd.cpp)
 -   Difficulty 1.3
 
-## Nasty Hacks
+## 22. Nasty Hacks
 -   [C++](NastyHacks/advertise.cpp)
 -   Difficulty 1.3
 
-## Last Factorial Digit
+## 23. Last Factorial Digit
 -   [C++](LastFactorialDigit/last.cpp)
 -   Difficulty 1.3
 
-## Speed Limit
+## 24. Speed Limit
 -   [C++](SpeedLimit/sp.cpp)
 -   Difficulty 1.3
 
-## Pet
+## 25. Pet
 -   [C++](Pet/pet.cpp)
 -   Difficulty 1.3
 
-## No Duplicates
+## 26. No Duplicates
 -   [C++](NoDuplicates/no.cpp)
 -   Difficulty 1.3
 
-## IsItHalloween.com
+## 27. IsItHalloween.com
 -   [C++](IsItHalloween.com/main.cpp)
 -   Difficulty 1.3
 
-## Zamka
+## 28. Zamka
 -   [C++](Zamka/z.cpp)
 -   Difficulty 1.3
 
-## Hissing Microphone
+## 29. Hissing Microphone
 -   [C++](HissingMicrophone/hiss.cpp)
 -   Difficulty 1.3
 
-## Grass Seed Inc.
+## 30. Grass Seed Inc.
 -   [C++](GrassSeedInc./grass.cpp)
 -   Difficulty 1.3
 
-## Cetvrta
+## 31. Cetvrta
 -   [C++](Cetvrta/cetvrta.cpp)
 -   [Python 3](Cetvrta/cetvrta.py)
 -   Difficulty 1.3
 
-## Bela
+## 32. Bela
 -   [C++](Bela/bela.cpp)
 -   Difficulty 1.3
 
-## Batter Up
+## 33. Batter Up
 -   [C++](BatterUp/bat.cpp)
 -   Difficulty 1.3
 
-## Judging Moose
+## 34. Judging Moose
 -   [C++](JudgingMoose/moose.cpp)
 -   Difficulty 1.3
 
-## Hanging Out on the Terrace
+## 35. Hanging Out on the Terrace
 -   [C++](HangingOutontheTerrace/terrace.cpp)
 -   Difficulty 1.3
 
-## Trik
+## 36. Trik
 -   [C++](Trik/trik.cpp)
 -   Difficulty 1.4
 
-## The Amazing Human Cannonball
+## 37. The Amazing Human Cannonball
 -   [C++](TheAmazingHumanCannonball/can.cpp)
 -   Difficulty 1.4
 
-## Seven Wonders
+## 38. Seven Wonders
 -   [C++](SevenWonders/sw.cpp)
 -   Difficulty 1.4
 
-## Roaming Romans
+## 39. Roaming Romans
 -   [C++](RoamingRomans/rr.cpp)
 -   Difficulty 1.4
 
-## Quick Estimates
+## 40. Quick Estimates
 -   [C++](QuickEstimates/qe.cpp)
 -   Difficulty 1.4
 
-## Provinces and Gold
+## 41. Provinces and Gold
 -   [C++](ProvincesandGold/pac.cpp)
 -   Difficulty 1.4
 
-## Poker Hand
+## 42. Poker Hand
 -   [C++](PokerHand/poker.cpp)
 -   Difficulty 1.4
 
-## Aaah!
+## 43. Modulo
+-   [C++](Modulo/mod.cpp)
+-   Difficulty 1.4
+
+## 44. Aaah!
 -   [C++](Aaah!/ah.cpp)
 -   Difficulty 1.6
 
-## Heliocentric
+## 45. Heliocentric
 -   [C++](Heliocentric/helio.cpp)
 -   Difficulty 1.8
 
-## What does the fox say?
+## 46. What does the fox say?
 -   [C++/Haven't finished yet](Whatdoesthefoxsay/fox.cpp)
 -   [JavaScript (Node.js)](Whatdoesthefoxsay/fox.js)
 -   Difficulty 2.0
 
-## Train Passengers
+## 47. Train Passengers
 -   [C++](TrainPassengers/train.cpp)
 -   Difficulty 2.0
 
-## Video Speedup
+## 48. Video Speedup
 -   [C++](VideoSpeedup/vid.cpp)
 -   Difficulty 2.0
 
-## 3D Printed Statues
+## 49. 3D Printed Statues
 -   [C++](3DPrintedStatues/3d.cpp)
 -   Difficulty 2.1
 
