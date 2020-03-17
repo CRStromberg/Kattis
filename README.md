@@ -198,28 +198,48 @@
 -   [C++](Modulo/mod.cpp)
 -   Difficulty 1.4
 
-## 44. Aaah!
+## 44. License to Launch
+-   [C++](LicensetoLaunch/launch.cpp)
+-   Difficulty 1.4
+
+## 45. Ladder
+-   [C++](Ladder/ladder.cpp)
+-   Difficulty 1.4
+
+## 46. Kemija
+-   [C++](Kemija/kemija.cpp)
+-   Difficulty 1.4
+
+## 47. I've Been Everywhere, Man
+-   [C++](IveBeenEverywhereMan/city.cpp)
+-   Difficulty 1.4
+
+## 48. ICPC Awards
+-   [C++](ICPCAwards/icpc.cpp)
+-   Difficulty 1.4
+
+## 49. Aaah!
 -   [C++](Aaah!/ah.cpp)
 -   Difficulty 1.6
 
-## 45. Heliocentric
+## 50. Heliocentric
 -   [C++](Heliocentric/helio.cpp)
 -   Difficulty 1.8
 
-## 46. What does the fox say?
+## 51. What does the fox say?
 -   [C++/Haven't finished yet](Whatdoesthefoxsay/fox.cpp)
 -   [JavaScript (Node.js)](Whatdoesthefoxsay/fox.js)
 -   Difficulty 2.0
 
-## 47. Train Passengers
+## 52. Train Passengers
 -   [C++](TrainPassengers/train.cpp)
 -   Difficulty 2.0
 
-## 48. Video Speedup
+## 53. Video Speedup
 -   [C++](VideoSpeedup/vid.cpp)
 -   Difficulty 2.0
 
-## 49. 3D Printed Statues
+## 54. 3D Printed Statues
 -   [C++](3DPrintedStatues/3d.cpp)
 -   Difficulty 2.1
 
