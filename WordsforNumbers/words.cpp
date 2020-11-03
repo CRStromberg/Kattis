@@ -8,27 +8,36 @@ void parse( string &phrase);
 string trans(int num);
 void toTens(int &tens, string &tempTens);
 void toOnes(int &ones, string &tempOnes);
-bool isInt(string &temp);
 
 int main() {
     string phrase;
 
-    cin >> phrase;
+    while(getline(cin, phrase)) {
+        parse(phrase);
+        cout << endl;
+    }
     
 
     return 0;
 }
 
 void parse( string &phrase) {
-    string temp;
+    int count = 0;
+    string temp, ans;
     stringstream ss(phrase);
 
     while(ss >> temp) {
-        if(!isInt(temp)) cout << temp << " ";
+        if(!isdigit(temp[0])) cout << temp << " ";
         else {
             int found = stoi(temp);
-            cout << trans(found) << " ";
+            ans = trans(found) + " ";
+        
+            if(count == 0) {
+                ans[0] = toupper(ans[0]);
+                cout << ans;
+            } else cout << ans;
         }
+        count++;
     }
 
 }
@@ -89,13 +98,14 @@ string trans(int num) {
     case 7:
     case 8:
     case 9:
-        number = tempTens + tempOnes;
+        if(ones == 0) number = tempTens;
+        else number = tempTens + "-" + tempOnes;
         break;
     default:
         number += tempOnes;
         break;
     }
-
+    return number;
 }
 
 void toTens(int &tens, string &tempTens){
@@ -168,10 +178,4 @@ void toOnes(int &ones, string &tempOnes) {
         tempOnes = "zero";
         break;
     }
-}
-
-bool isInt(string &temp) {
-    const_iterator it = temp.begin();
-    while (it != temp.end() && std::isdigit(*it)) ++it;
-    return !temp.empty() && it == temp.end();
 }
