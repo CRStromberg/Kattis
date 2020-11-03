@@ -218,6 +218,22 @@
 -   [C++](ICPCAwards/icpc.cpp)
 -   Difficulty 1.4
 
+## Sum Squared Digits Function
+-   [C++](SumSquaredDigitsFunction/ssdf.cpp)
+-   Difficulty 1.4
+
+## Encoded Message
+-   [C++](EncodedMessage/enmes.cpp)
+-   Difficulty 1.4
+
+## Detailed Differences
+-   [C++](DetailedDifferences/dd.cpp)
+-   Difficulty 1.4
+
+## Datum
+-   [C++](Datum/date.cpp)
+-   Difficulty 1.4
+
 ## 49. Aaah!
 -   [C++](Aaah!/ah.cpp)
 -   Difficulty 1.6
@@ -243,3 +259,6 @@
 -   [C++](3DPrintedStatues/3d.cpp)
 -   Difficulty 2.1
 
+##55. Words for Numbers
+-   [C++](WordsforNumbers/words.cpp)
+-   Difficulty 2.5

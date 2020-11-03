@@ -68,7 +68,7 @@ string trans(int num) {
             number = "thirteen";
             break;
         case 4:
-            number = "forteen";
+            number = "fourteen";
             break;
         case 5:
             number = "fifteen";
@@ -118,7 +118,7 @@ void toTens(int &tens, string &tempTens){
         tempTens = "twenty";
         break;
     case 3:
-        tempTens = "thrity";
+        tempTens = "thirty";
         break;
     case 4:
         tempTens = "forty";
