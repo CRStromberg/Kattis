@@ -261,4 +261,5 @@
 
 ##55. Words for Numbers
 -   [C++](WordsforNumbers/words.cpp)
+-   [Java](WordsforNumbers/words.java)
 -   Difficulty 2.5
