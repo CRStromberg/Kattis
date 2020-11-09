@@ -1,0 +1,3 @@
+10 PRINTL "is the first test"
+20 IF
+30 LET is the last test
