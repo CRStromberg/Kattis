@@ -57,7 +57,10 @@ void interp(map<int, string> &basintr, map<char, int> &vars, int lineNum, string
     it = basintr.find(lineNum);
     for(it; it != basintr.cend(); ++it) {
         temp = it->second;
-    
+        if(basintr.empty()) { break; }
+
+    cout << it->first << endl;
+
         stringstream ss(it->second);
         while (ss >> temp) { instruct.push(temp); }
 
@@ -68,7 +71,10 @@ void interp(map<int, string> &basintr, map<char, int> &vars, int lineNum, string
             instruct.pop();
             jump = ifFun(instruct, vars);
 
-            if(jump >= 0) { interp(basintr, vars, jump, message); }
+            if(jump >= 0) { 
+                interp(basintr, vars, jump, message); 
+                basintr.erase(basintr.begin(), basintr.end());    
+            }
         } else if(instruct.front() == "PRINT") {
             instruct.pop();
             printFun(instruct, vars, message);
@@ -76,13 +82,15 @@ void interp(map<int, string> &basintr, map<char, int> &vars, int lineNum, string
             instruct.pop();
             printLnFun(instruct, vars, message);
         } else { cout << "Error, Not a Command\n Queue front is: "; }
-    
+
+        
     }
 }
 
 void letFun(queue <string> &instruct, map<char, int> &vars) {
     map<char,int>::iterator it;
-    int finVal, tempVal ;
+    int finVal = NULL;
+    int tempVal = NULL;
     char setVarible, varible, op;
     string temp;
 
@@ -127,7 +135,10 @@ void letFun(queue <string> &instruct, map<char, int> &vars) {
                         break;
                     default:
                         it = vars.find(op);
-                        finVal = it->second;
+                        if(finVal != NULL) {
+                            tempVal = it->second;
+                        } else { finVal = it->second; }
+                        
                         instruct.pop();
                         break;
                     }
