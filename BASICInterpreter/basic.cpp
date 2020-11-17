@@ -19,7 +19,6 @@ int main() {
     string input, message;
     int lineNum;
 
-    message = "";
     while(getline(cin, input)) {
        insMap(input, basintr);
     }
@@ -57,9 +56,9 @@ void interp(map<int, string> &basintr, map<char, int> &vars, int lineNum, string
     it = basintr.find(lineNum);
     for(it; it != basintr.cend(); ++it) {
         temp = it->second;
+        
+        
         if(basintr.empty()) { break; }
-
-    cout << it->first << endl;
 
         stringstream ss(it->second);
         while (ss >> temp) { instruct.push(temp); }
@@ -89,8 +88,7 @@ void interp(map<int, string> &basintr, map<char, int> &vars, int lineNum, string
 
 void letFun(queue <string> &instruct, map<char, int> &vars) {
     map<char,int>::iterator it;
-    int finVal = NULL;
-    int tempVal = NULL;
+    int valOne, valTwo, operation, finVal;
     char setVarible, varible, op;
     string temp;
 
@@ -100,50 +98,65 @@ void letFun(queue <string> &instruct, map<char, int> &vars) {
         instruct.pop();
         if(instruct.front() == "=") {
             instruct.pop();
-            while(!instruct.empty()) {
+            temp = instruct.front();
+
+            if(isdigit(temp[0])) { valOne = stoi(temp); }
+            else {
+                it = vars.find(temp[0]);
+                valOne = it -> second;
+            }
+            instruct.pop();
+
+            if(!instruct.empty()) {
                 temp = instruct.front();
-                if(isdigit(temp[0])) {
-                    finVal = stoi(temp);
-                    instruct.pop();
-                } else {
-                    op = temp[0];
-                    switch (op)
-                    {
+                op = temp[0];
+
+                switch(op) {
                     case '+':
-                        instruct.pop();
-                        tempVal = stoi(instruct.front());
-                        instruct.pop();
-                        finVal = finVal + tempVal; 
+                        operation = 1;
                         break;
                     case '-':
-                        instruct.pop();
-                        tempVal = stoi(instruct.front());
-                        instruct.pop();
-                        finVal = finVal - tempVal;
+                        operation = 2;
                         break;
                     case '*':
-                        instruct.pop();
-                        tempVal = stoi(instruct.front());
-                        instruct.pop();
-                        finVal = finVal * tempVal;
+                        operation = 3;
                         break;
                     case '/':
-                        instruct.pop();
-                        tempVal = stoi(instruct.front());
-                        instruct.pop();
-                        finVal = finVal / tempVal;
+                        operation = 4;
                         break;
                     default:
-                        it = vars.find(op);
-                        if(finVal != NULL) {
-                            tempVal = it->second;
-                        } else { finVal = it->second; }
-                        
-                        instruct.pop();
+                        cout << "Error, invalid operation\n";
                         break;
-                    }
                 }
+                instruct.pop();
+                temp = instruct.front();
+                
+                if(isdigit(temp[0])) { valTwo = stoi(temp); }
+                else {
+                    it = vars.find(temp[0]);
+                    valTwo = it -> second;
+                }
+                instruct.pop();
             }
+            switch (operation)
+            {
+            case 1:
+                finVal = valOne + valTwo;
+                break;
+            case 2:
+                finVal = valOne - valTwo;
+                break;
+            case 3:
+                finVal = valOne * valTwo;
+                break;
+            case 4:
+                finVal = valOne / valTwo;
+                break;
+            default:
+                finVal = valOne;
+                break;
+            }
+
         }else cout << "Error, expected '=' sign\n";
     } else cout << "Error, invalid varible name\n";
    it = vars.find(setVarible);
@@ -238,6 +251,12 @@ void printFun(queue <string> &instruct, map<char, int> &vars, string &message) {
         temp = instruct.front(); 
         instruct.pop();
 
+        if(temp.length() == 1 && temp[0] == '"' && instruct.size() > 1) { 
+            temp = instruct.front();
+            instruct.pop();
+            quo = true;
+        }
+
         if(temp.length() == 1 && quo == false) {
             it = vars.find(temp[0]);
             message = message + to_string(it->second) + " ";    
@@ -265,5 +284,5 @@ void printLnFun(queue <string> &instruct, map<char, int> &vars, string &message)
 
 
     cout << message << endl;
-    message = "";
+    message.erase();
 }
