@@ -259,7 +259,11 @@
 -   [C++](3DPrintedStatues/3d.cpp)
 -   Difficulty 2.1
 
-##55. Words for Numbers
+## 55. Words for Numbers
 -   [C++](WordsforNumbers/words.cpp)
 -   [Java](WordsforNumbers/words.java)
 -   Difficulty 2.5
+
+## 56. Electrical Outlets
+-   [C++](ElectricalOutlets/electricaloutlets.cpp)
+-   Difficulty 1.2
